@@ -20,10 +20,11 @@
 
 # Publications
 
->* S. Zheng et al., "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," FPL 2022
->* S. Zheng et al., "HEAM: High-Efficiency Approximate Multiplier Optimization for Deep Neural Networks," ISCAS 2022
->* S. Zheng et al., "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," FPT 2021
->* S. Zheng, J. Chen and L. Wang, "Targeted Black-Box Adversarial Attack Method for Image Classification Models," IJCNN 2019
+>* **S. Zheng** et al., "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," FPL 2022
+>* Z. Li, **Su Zheng** et al., "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," TVLSI, 2022
+>* **S. Zheng** et al., "HEAM: High-Efficiency Approximate Multiplier Optimization for Deep Neural Networks," ISCAS 2022
+>* **S. Zheng** et al., "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," FPT 2021
+>* **S. Zheng**, J. Chen and L. Wang, "Targeted Black-Box Adversarial Attack Method for Image Classification Models," IJCNN 2019
 
 
 # Languages
