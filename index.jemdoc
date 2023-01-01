@@ -1,0 +1,74 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/jemdoc_yuzhe.css}
+# jemdoc: addcss{ccs/myMiddle.css}
+# jemdoc: title{Su ZHENG -- CSE CUHK}
+
+
+~~~
+{}{img_left}{img/su-zheng-cropped.jpg}{}{150}{Su ZHENG}
+= Su ZHENG (鄭溯)
+
+*Ph.D. Student*  
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] and [https://www.erg.cuhk.edu.hk/erg/DeanMessage/ Prof. Martin D.F. Wong] \n
+*Email*:szheng22@cse.cuhk.edu.hk\n
+{{<a href="https://github.com/shelljane" target="<u>blank"><img src="img/github-3.png" height=30></a>  <a href="https://scholar.google.com/citations?hl=en&user=imuy2mcAAAAJ&view_op=list_works&sortby=pubdate" target="<u>blank"><img src="img/scholar.png" height=30></a>}} \n           
+~~~
+
+
+
+
+== Biography
+I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)],
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] and [https://www.erg.cuhk.edu.hk/erg/DeanMessage/ Prof. Martin D.F. Wong] since Fall 2022. Prior to that, I obtained my B.Eng. and M.S. degree from [https://www.fudan.edu.cn/ Fudan University] under the supervision of [https://sme.fudan.edu.cn/60/3c/c31133a352316/page.htm Prof. Lingli Wang] in 2015-2022.\n 
+
+Besides research, I love playing the piano and listening to classical music in my spare time.
+
+== Recent News
+~~~
+- Aug/2022: *Congratulation!* Our approximate multiplier design has been published in TVLSI!
+- Nov/2021: *Congratulation!* Our CGRA platform *FastCGRA* has been published in FPT 2021!
+~~~
+
+
+== Research Interest
+- Optical Proximity Correction
+- VLSI Placement
+- Design Space Exploration
+- Coarse Grained Reconfigurable Arrays
+- Approximate Computing
+
+== Publication
+#
+- \[C5\] *S. Zheng*, J. Qian, H. Zhou, L. Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
+#
+- \[C4\] Z. Li, *S. Zheng*, J. Zhang, Y. Lu, J. Gao, J. Tao, L. Wang, "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 30, no. 12, pp. 1813-1826, Dec. 2022. 
+#
+- \[C3\] *S. Zheng*, Z. Li, Y. Lu, J. Gao, J. Zhang and L. Wang, "HEAM: High-Efficiency Approximate Multiplier optimization for Deep Neural Networks," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022. ([https://github.com/shelljane/HEAM code])
+#
+- \[C2\] *S. Zheng*, K. Zhang, Y. Tian, W. Yin, L. Wang and X. Zhou, "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," 2021 International Conference on Field-Programmable Technology (ICFPT), 2021. 
+#
+- \[C1\] *S. Zheng*, J. Chen and L. Wang, "Targeted Black-Box Adversarial Attack Method for Image Classification Models," 2019 International Joint Conference on Neural Networks (IJCNN), 2019. ([https://github.com/shelljane/targeted-black-box-attack code])
+
+== Education
+- Ph.D.   The Chinese University of Hong Kong (CUHK), Aug/2022 - Now
+- M.S.    Fudan University (FDU), Sep\/2019 - Jun\/2022
+- B.Eng. (Elite Engineering Honor Degree), Fudan University (FDU), Sep\/2015 - Jun\/2019
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+ 
+ Full Postgraduate Studentship,     |The Chinese University of Hong Kong,     |2022-2026||
+ First Class Scholarship,           |Fudan University,                        |2015-2018||
+~~~
+
+== Skills
+- Languages: C\/C\+\+, Python, Verilog, Perl, Haskell, Matlab, R, Java 
+- Tools    : PyTorch, Tensorflow, Caffe, Vivado, LaTeX
+- Hobbies  : Piano, Classical Music
+
+
+
