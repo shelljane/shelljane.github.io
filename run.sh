@@ -1,4 +1,4 @@
 #！ /bin/bash
 
 # conda activate py27
-python jemdoc.py index.jemdoc
+python2 jemdoc.py index.jemdoc

@@ -24,16 +24,19 @@
 I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)],
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] and [https://www.erg.cuhk.edu.hk/erg/DeanMessage/ Prof. Martin D.F. Wong] since Fall 2022. Prior to that, I obtained my B.Eng. and M.S. degree from [https://www.fudan.edu.cn/ Fudan University] under the supervision of [https://sme.fudan.edu.cn/60/3c/c31133a352316/page.htm Prof. Lingli Wang] in 2015-2022.\n 
 
+My research interest is to solve critical problems in eletronic design automation (EDA) with advanced artificial intelligence (AI) methods. 
 Besides research, I love playing the piano and listening to classical music in my spare time.
 
 == Recent News
 ~~~
+- Feb/2023: *Congratulation!* Our work on deep-learning-assisted global placement has been accepted by DAC 2023!
 - Aug/2022: *Congratulation!* Our approximate multiplier design has been published in TVLSI!
 - Nov/2021: *Congratulation!* Our CGRA platform *FastCGRA* has been published in FPT 2021!
 ~~~
 
 
 == Research Interest
+- AI in Electronic Design Automation
 - Optical Proximity Correction
 - VLSI Placement
 - Design Space Exploration
@@ -41,6 +44,8 @@ Besides research, I love playing the piano and listening to classical music in m
 - Approximate Computing
 
 == Publication
+#
+- \[C6\] S. Zheng, L. Zhou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
 #
 - \[C5\] *S. Zheng*, J. Qian, H. Zhou, L. Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
 #
@@ -56,6 +61,12 @@ Besides research, I love playing the piano and listening to classical music in m
 - Ph.D.,   Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug/2022 - Now
 - M.S.,    State Key Laboratory of ASIC & System, Fudan University (FDU), Sep\/2019 - Jun\/2022
 - B.Eng. (Elite Engineering Honor Degree, *Rank 1st*), School of Microelectronics, Fudan University (FDU), Sep\/2015 - Jun\/2019
+
+== Projects
+ - Black-box-attack, a targeted black-box adversarial attack method for image classification models, https://github.com/shelljane/targeted-black-box-attack
+ - FastCGRA, a platform for large-scale CGRA, *40k+ lines of C++ code*, will be open-source soon
+ - SimpleCGRA, a simple and efficient CGRA platform, implemented with Python and LLVM, https://github.com/seraphjane/SimpleCGRA
+ - ApproxFlow, an approximate multiplier design and evaluation platform for deep learning, *10k+ lines of C++ code*, https://github.com/shelljane/ApproxFlow 
 
 == Selected Awards
 ~~~
