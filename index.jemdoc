@@ -63,10 +63,10 @@ Besides research, I love playing the piano and listening to classical music in m
 - B.Eng. (Elite Engineering Honor Degree, *Rank 1st*), School of Microelectronics, Fudan University (FDU), Sep\/2015 - Jun\/2019
 
 == Projects
- - Black-box-attack, a targeted black-box adversarial attack method for image classification models, https://github.com/shelljane/targeted-black-box-attack
+ - [https://github.com/shelljane/targeted-black-box-attack Black-box-attack], a targeted black-box adversarial attack method for image classification models
  - FastCGRA, a platform for large-scale CGRA, *40k+ lines of C++ code*, will be open-source soon
- - SimpleCGRA, a simple and efficient CGRA platform, implemented with Python and LLVM, https://github.com/seraphjane/SimpleCGRA
- - ApproxFlow, an approximate multiplier design and evaluation platform for deep learning, *10k+ lines of C++ code*, https://github.com/shelljane/ApproxFlow 
+ - [https://github.com/shelljane/SimpleCGRA SimpleCGRA], a simple and efficient CGRA platform, implemented with Python and LLVM
+ - [https://github.com/shelljane/ApproxFlow ApproxFlow], an approximate multiplier design and evaluation platform for deep learning, *10k+ lines of C++ code*
 
 == Selected Awards
 ~~~
