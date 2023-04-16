@@ -29,6 +29,8 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Recent News
 ~~~
+- Mar/2023: Our open-source inverse lithography technology (ILT) platform is available at [https://github.com/OpenOPC/OpenILT OpenILT]!
+- Feb/2023: *Congratulation!* Our work on large-scale design space exploration has been accepted by TODAES!
 - Feb/2023: *Congratulation!* Our work on deep-learning-assisted global placement has been accepted by DAC 2023!
 - Aug/2022: *Congratulation!* Our approximate multiplier design has been published in TVLSI!
 - Nov/2021: *Congratulation!* Our CGRA platform *FastCGRA* has been published in FPT 2021!
@@ -44,6 +46,8 @@ Besides research, I love playing the piano and listening to classical music in m
 - Approximate Computing
 
 == Publication
+#
+- \[C7\] S. Zheng, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023
 #
 - \[C6\] *S. Zheng*, L. Zou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
 #
@@ -63,10 +67,11 @@ Besides research, I love playing the piano and listening to classical music in m
 - B.Eng. (Elite Engineering Honor Degree, *Rank 1st*), School of Microelectronics, Fudan University (FDU), Sep\/2015 - Jun\/2019
 
 == Projects
- - [https://github.com/shelljane/targeted-black-box-attack Black-box-attack], a targeted black-box adversarial attack method for image classification models
- - FastCGRA, a platform for large-scale CGRA, *40k\+ lines of C\+\+ code*, will be open-source soon
- - [https://github.com/shelljane/SimpleCGRA SimpleCGRA], a simple and efficient CGRA platform, implemented with Python and LLVM
- - [https://github.com/shelljane/ApproxFlow ApproxFlow], an approximate multiplier design and evaluation platform for deep learning, *10k\+ lines of C\+\+ code*
+ - [https://github.com/OpenOPC/OpenILT OpenILT], an open-source inverse lithography technology platform. 
+ - [https://github.com/shelljane/targeted-black-box-attack Black-box-attack], a targeted black-box adversarial attack method for image classification models. 
+ - [https://github.com/ChayCai/HierCGRA FastCGRA], a platform for large-scale CGRA, *40k\+ lines of C\+\+ code*, also named HierCGRA. Thanks for Chang's efforts!
+ - [https://github.com/shelljane/SimpleCGRA SimpleCGRA], a simple and efficient CGRA platform, implemented with Python and LLVM. 
+ - [https://github.com/shelljane/ApproxFlow ApproxFlow], an approximate multiplier design and evaluation platform for deep learning, *10k\+ lines of C\+\+ code*. 
 
 == Selected Awards
 ~~~
