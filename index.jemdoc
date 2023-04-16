@@ -47,17 +47,17 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Publication
 #
-- \[C7\] *S. Zheng*, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023
+- \[J2\] *S. Zheng*, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023
 #
-- \[C6\] *S. Zheng*, L. Zou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
+- \[C5\] *S. Zheng*, L. Zou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
 #
-- \[C5\] *S. Zheng*, J. Qian, H. Zhou, L. Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
+- \[C4\] *S. Zheng*, J. Qian, H. Zhou, L. Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
 #
-- \[C4\] Z. Li, *S. Zheng*, J. Zhang, Y. Lu, J. Gao, J. Tao, L. Wang, "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 30, no. 12, pp. 1813-1826, Dec. 2022. 
+- \[J1\] Z. Li, *S. Zheng*, J. Zhang, Y. Lu, J. Gao, J. Tao, L. Wang, "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 30, no. 12, pp. 1813-1826, Dec. 2022. 
 #
 - \[C3\] *S. Zheng*, Z. Li, Y. Lu, J. Gao, J. Zhang and L. Wang, "HEAM: High-Efficiency Approximate Multiplier optimization for Deep Neural Networks," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022. ([https://github.com/shelljane/HEAM code])
 #
-- \[C2\] *S. Zheng*, K. Zhang, Y. Tian, W. Yin, L. Wang and X. Zhou, "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," 2021 International Conference on Field-Programmable Technology (ICFPT), 2021. 
+- \[C2\] *S. Zheng*, K. Zhang, Y. Tian, W. Yin, L. Wang and X. Zhou, "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," International Conference on Field-Programmable Technology (ICFPT), 2021. 
 #
 - \[C1\] *S. Zheng*, J. Chen and L. Wang, "Targeted Black-Box Adversarial Attack Method for Image Classification Models," 2019 International Joint Conference on Neural Networks (IJCNN), 2019. ([https://github.com/shelljane/targeted-black-box-attack code])
 
