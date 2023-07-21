@@ -29,6 +29,7 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Recent News
 ~~~
+- Jul/2023: *Congratulation!* Our work on deep-leaning-based congestion prediction has been accepted by ICCAD!
 - Mar/2023: *OpenILT released!* Our open-source inverse lithography technology (ILT) platform is available at [https://github.com/OpenOPC/OpenILT OpenILT]!
 - Feb/2023: *Congratulation!* Our work on large-scale design space exploration has been accepted by TODAES!
 - Feb/2023: *Congratulation!* Our work on deep-learning-assisted global placement has been accepted by DAC 2023!
@@ -46,6 +47,8 @@ Besides research, I love playing the piano and listening to classical music in m
 - Approximate Computing
 
 == Publication
+#
+- \[C6\] *S. Zheng*, L. Zou, P.Xu, S. Liu, B. Yu, M. D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023
 #
 - \[J2\] *S. Zheng*, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023
 #
