@@ -52,9 +52,9 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Publication
 #
-- \[J4\] Shixin Chen, Shanyi Li, Zhen Zhuang, *Su Zheng*, Zheng Liang, Tsung-Yi Ho, Bei Yu, Alberto L. Sangiovanni-Vincentelli, “Floorplet: Performance-aware Floorplan Framework for Chiplet Integration”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+- \[J4\] S. Chen, S. Li, Z. Zhuang, *S. Zheng*, Z. Liang, T. Ho, B. Yu, A. L. Sangiovanni-Vincentelli, “Floorplet: Performance-aware Floorplan Framework for Chiplet Integration”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 #
-- \[C11\] Zhuolun He, Haoyuan Wu, Xinyun Zhang, Xufeng Yao, *Su Zheng*, Haisheng Zheng and Bei Yu, “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), 2023.
+- \[C11\] Z. He, H. Wu, X. Zhang, X. Yao, *S. Zheng*, H. Zheng and B. Yu, “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), 2023.
 #
 - \[C10\] *S. Zheng*, H. Yang, B. Zhu, B. Yu, M. D.F. Wong, "LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing", Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023
 #
@@ -74,7 +74,7 @@ Besides research, I love playing the piano and listening to classical music in m
 #
 - \[J1\] Z. Li, *S. Zheng*, J. Zhang, Y. Lu, J. Gao, J. Tao, L. Wang, "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 30, no. 12, pp. 1813-1826, Dec. 2022. 
 #
-- \[C4\] Yao Lu, Jide Zhang, *Su Zheng*, Zhen Li, Lingli Wang, "Low Error-Rate Approximate Multiplier Design for DNNs with Hardware-Driven Co-Optimization," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022.
+- \[C4\] Y. Lu, J. Zhang, *S. Zheng*, Z. Li, L. Wang, "Low Error-Rate Approximate Multiplier Design for DNNs with Hardware-Driven Co-Optimization," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022.
 #
 - \[C3\] *S. Zheng*, Z. Li, Y. Lu, J. Gao, J. Zhang and L. Wang, "HEAM: High-Efficiency Approximate Multiplier optimization for Deep Neural Networks," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022. ([https://github.com/shelljane/HEAM code])
 #
