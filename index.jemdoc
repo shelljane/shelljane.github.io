@@ -29,6 +29,7 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Recent News
 ~~~
+- Feb/2023: *Congratulation!* Our work on LLM for EDA has been accepted by TCAD!
 - Feb/2024: *Congratulation!* Our two works on mask optimization and pattern generation has been accepted by DAC!
 - Dec/2023: *Congratulation!* Our work on chiplet floorplan has been accepted by TCAD!
 - Sep/2023: *Congratulation!* Our work on LLM for EDA has been accepted by MLCAD!
@@ -52,6 +53,10 @@ Besides research, I love playing the piano and listening to classical music in m
 - Approximate Computing
 
 == Publication
+#
+- \[J6\] S. Chen, C. Cai, *S. Zheng*, J. Li, G. Zhu, J. Li, Y. Yan, Y. Dai, W. Yin, L. Wang, “HierCGRA: A Novel Framework for Large-Scale CGRA with Hierarchical Modeling and Automated Design Space Exploration”, ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024
+#
+- \[J5\] H. Wu, Z. He, X. Zhang, X. Yao, *S. Zheng*, H. Zheng, B. Yu, “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 #
 - \[C13\] *S. Zheng*, Y. Ma, B. Yu, M. Wong, “EMOGen: Enhancing Mask Optimization via Pattern Generation”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
 #
