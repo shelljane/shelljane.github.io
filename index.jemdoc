@@ -29,7 +29,9 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Recent News
 ~~~
-- Feb/2023: *Congratulation!* Our work on LLM for EDA has been accepted by TCAD!
+- Sep/2024: *Congratulation!* Our work on Neural ODE has been accepted by NeurIPS!
+- Jun/2024: *Congratulation!* Our work on ranking-based design space exploration has been accepted by ICCAD!
+- Feb/2024: *Congratulation!* Our work on LLM for EDA has been accepted by TCAD!
 - Feb/2024: *Congratulation!* Our two works on mask optimization and pattern generation has been accepted by DAC!
 - Dec/2023: *Congratulation!* Our work on chiplet floorplan has been accepted by TCAD!
 - Sep/2023: *Congratulation!* Our work on LLM for EDA has been accepted by MLCAD!
@@ -54,7 +56,9 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Publication
 #
-- \[C14\] P. Xu, S. Zheng, Y. Ye, C. Bai, S. Xu, H. Geng, T. Ho, B. Yu, “RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization”, in IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.
+- \[C15\] *S. Zheng*, Z. Gao, F-K Sun, D. S. Boning, B. Yu, M. D.F. Wong, “Improving Neural ODE Training with Temporal Adaptive Batch Normalization”, Neural Information Processing Systems (NeurIPS), 2024.
+#
+- \[C14\] P. Xu, S. Zheng, Y. Ye, C. Bai, S. Xu, H. Geng, T. Ho, B. Yu, “RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.
 #
 - \[J6\] S. Chen, C. Cai, *S. Zheng*, J. Li, G. Zhu, J. Li, Y. Yan, Y. Dai, W. Yin, L. Wang, “HierCGRA: A Novel Framework for Large-Scale CGRA with Hierarchical Modeling and Automated Design Space Exploration”, ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024
 #
@@ -68,19 +72,19 @@ Besides research, I love playing the piano and listening to classical music in m
 #
 - \[C11\] Z. He, H. Wu, X. Zhang, X. Yao, *S. Zheng*, H. Zheng and B. Yu, “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), 2023.
 #
-- \[C10\] *S. Zheng*, H. Yang, B. Zhu, B. Yu, M. D.F. Wong, "LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing", Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023
+- \[C10\] *S. Zheng*, H. Yang, B. Zhu, B. Yu, M. D.F. Wong, "LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing", Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023.
 #
 - \[J3\] B. Zhu, *S. Zheng*, Z. Yu, G. Chen, Y. Ma, F. Yang, B. Yu, M. D.F. Wong, “L2O-ILT: Learning to Optimize Inverse Lithography Techniques”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 #
-- \[C9\] S. Chen, *S. Zheng*, C. Bai, W. Zhao, S. Yin, Y. Bai, B. Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), 2023
+- \[C9\] S. Chen, *S. Zheng*, C. Bai, W. Zhao, S. Yin, Y. Bai, B. Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), 2023.
 #
-- \[C8\] *S. Zheng*, B. Yu, M. D.F. Wong, "OpenILT: An Open Source Inverse Lithography Technique Framework", International Conference on ASIC (ASICON), 2023 *(Invited Paper)*
+- \[C8\] *S. Zheng*, B. Yu, M. D.F. Wong, "OpenILT: An Open Source Inverse Lithography Technique Framework", International Conference on ASIC (ASICON), 2023 *(Invited Paper)*.
 #
-- \[C7\] *S. Zheng*, L. Zou, P.Xu, S. Liu, B. Yu, M. D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023
+- \[C7\] *S. Zheng*, L. Zou, P.Xu, S. Liu, B. Yu, M. D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023.
 #
-- \[J2\] *S. Zheng*, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023
+- \[J2\] *S. Zheng*, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
 #
-- \[C6\] *S. Zheng*, L. Zou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
+- \[C6\] *S. Zheng*, L. Zou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023.
 #
 - \[C4\] *S. Zheng*, J. Qian, H. Zhou, L. Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
 #
