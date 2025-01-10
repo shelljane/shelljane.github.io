@@ -29,6 +29,7 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Recent News
 ~~~
+- Jan/2025: *Congratulation!* Our work on congestion prediction has been accepted by TCAD!
 - Oct/2024: *Congratulation!* Our work on OPC has been accepted by TCAD!
 - Sep/2024: *Congratulation!* Our work on Neural ODE has been accepted by NeurIPS!
 - Jun/2024: *Congratulation!* Our work on ranking-based design space exploration has been accepted by ICCAD!
@@ -46,6 +47,8 @@ Besides research, I love playing the piano and listening to classical music in m
 - Approximate Computing
 
 == Publication
+#
+- \[C16\] L. Zou, *S. Zheng*, P. Xu, S. Liu, B. Yu, M. D.F. Wong, “Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
 #
 - \[J7\] Z. Yu, *S. Zheng*, W. Zhao, S. Yin, X. Liang, G. Chen, Y. Ma, B. Yu, M. D.F. Wong, “RuleLearner: OPC Rule Extraction from Inverse Lithography Technique Engine”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 #
