@@ -49,7 +49,9 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Publication
 #
-- \[C16\] *S. Zheng*, X. Liang, Z. Yu, Y. Ma, B. Yu, M. D.F. Wong, “Curvilinear Optical Proximity Correction via Cardinal Spline”, ACM/IEEE Design Automation Conference (DAC), 2025.
+- \[C17\] *S. Zheng*, X. Liang, Z. Yu, Y. Ma, B. Yu, M. D.F. Wong, “Curvilinear Optical Proximity Correction via Cardinal Spline”, ACM/IEEE Design Automation Conference (DAC), 2025.
+#
+- \[C16\] Z. Wang, J. Zhou, *S. Zheng*, S. Yin, K. Liang, S. Hu, X. Chen, B. Yu, “TorchResist: Open-source differentiable resist simulator”, SPIE Advanced Lithography + Patterning, San Jose, Feb. 23–27, 2025.
 #
 - \[J8\] L. Zou, *S. Zheng*, P. Xu, S. Liu, B. Yu, M. D.F. Wong, “Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
 #
@@ -103,7 +105,9 @@ Besides research, I love playing the piano and listening to classical music in m
 - B.Eng. (Elite Engineering Honor Degree, *Rank 1st*), School of Microelectronics, Fudan University (FDU), Sep\/2015 - Jun\/2019
 
 == Projects
+ - [https://github.com/shelljane/lithobench LithoBench], an open-source dataset for AI-driven computation lithography. 
  - [https://github.com/OpenOPC/OpenILT OpenILT], an open-source inverse lithography technology platform. 
+ - [https://github.com/ShiningSord/TorchResist TorchResist], an open-source litho-resist simulator, lead by Zixiao Wang. 
  - [https://github.com/ChayCai/HierCGRA FastCGRA], a platform for large-scale CGRA, *40k\+ lines of C\+\+ code*, also named HierCGRA. Thanks for Chang's efforts!
  - [https://github.com/shelljane/SimpleCGRA SimpleCGRA], a simple and efficient CGRA platform, implemented with Python and LLVM. 
  - [https://github.com/shelljane/ApproxFlow ApproxFlow], an approximate multiplier design and evaluation platform for deep learning, *10k\+ lines of C\+\+ code*. 
