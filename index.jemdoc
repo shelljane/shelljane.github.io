@@ -30,14 +30,13 @@ Besides research, I love playing the piano and listening to classical music in m
 
 == Recent News
 ~~~
+- Feb/2026: *Congratulation!* Our work DR. OPC has been accepted by DAC 2026!
 - Apr/2025: *Congratulation!* Our work on pattern database has been accepted by TCAD!
 - Feb/2025: *Congratulation!* Our work on curvilinear OPC has been accepted by DAC 2025!
 - Jan/2025: *Congratulation!* Our work on congestion prediction has been accepted by TCAD!
-- Oct/2024: *Congratulation!* Our work on OPC has been accepted by TCAD!
 - Sep/2024: *Congratulation!* Our work on Neural ODE has been accepted by NeurIPS!
-- Jun/2024: *Congratulation!* Our work on ranking-based design space exploration has been accepted by ICCAD 2024!
 - Feb/2024: *Congratulation!* Our work on LLM for EDA has been accepted by TCAD!
-- Feb/2024: *Congratulation!* Our two works on mask optimization and pattern generation has been accepted by DAC 2024!
+- Feb/2024: *Congratulation!* Our work on mask optimization and pattern generation has been accepted by DAC 2024!
 ~~~
 
 
@@ -49,67 +48,91 @@ Besides research, I love playing the piano and listening to classical music in m
 - Coarse Grained Reconfigurable Arrays
 - Approximate Computing
 
-== Publication
+== Conference Papers
 #
-- \[J13\] Donger Luo, Qi Sun, Peng Xu, *Su Zheng*, Qi Xu, Tinghuan Chen, Bei Yu, Hao Geng, “Attention-Based EDA Tool Parameter Explorer: From Hybrid Parameters to Multi-QoR Metrics”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+- \[C23\] *Su Zheng*, Xinyun Zhang, Bei Yu, Martin Wong, "DR. OPC: Differentiable Rasterization for Advanced Optical Proximity Correction", ACM/IEEE Design Automation Conference (DAC), Long Beach, Jul. 26–29, 2026.
 #
-- \[J12\] Yuyang Chen, Qi Sun, *Su Zheng*, Xinyun Zhang, Bei Yu, Hao Geng, “HyDAS: Hybrid Domain Deformed Attention for Selective Hotspot Detection”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+- \[C22\] Ziyang Yu, Shuo Yin, Su Zheng, Xiaoxiao Liang, Yuzhe Ma, Bei Yu, "Coordinated Clip-Wise Gradient Scheduling for Full-Chip ILT via Policy Learning", ACM/IEEE Design Automation Conference (DAC), Long Beach, Jul. 26–29, 2026.
 #
-- \[J11\] Peng Xu, *Su Zheng*, Mingzi Wang, Ziyang Yu, Shixin Chen, Tinghuan Chen, Keren Zhu, Tsung-Yi Ho, Bei Yu, “Rank-DSE: Neural Pareto Comparator of Microarchitecture Design Space Exploration”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025.
+- \[C21\] *Su Zheng*, Ziyang Yu, Bei Yu, Martin Wong, "Scalable Second-Order Optimizer for Full-Chip Inverse Lithography Techniques", IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
 #
-- \[J10\] *Su Zheng*, Wenqian Zhao, Shuyuan Sun, Fan Yang, Bei Yu, Martin D.F. Wong, “Streamlining Computational Lithography with Efficient Pattern Database”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+- \[C20\] Ziyang Yu, Peng Xu, *Su Zheng*, Siyuan Xu, Hao Geng, Bei Yu, Martin D.F. Wong, "CausalTuner: Will Causality Help High-Dimensional EDA Tool Parameter Tuning", IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan. 19–22, 2026. 
 #
-- \[J9\] B. Zhu, *S. Zheng*, Y. Ma, B. Yu, M. D.F. Wong, “Bridging Hotspot Detection and Mask Optimization via Domain-Crossing Masked Layout Modeling”, ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025.
+- \[C19\] Shuo Yin, *Su Zheng*, Ziyang Yu, Bei Yu, "TorchLitho 2.0: Ultrafast Differentiable Lithography Simulation Engine", IEEE International Conference on ASIC (ASICON), Kunming, Oct. 21–24, 2025. (Invited Paper)
 #
-- \[C17\] *S. Zheng*, X. Liang, Z. Yu, Y. Ma, B. Yu, M. D.F. Wong, “Curvilinear Optical Proximity Correction via Cardinal Spline”, ACM/IEEE Design Automation Conference (DAC), 2025.
+- \[C18\] *Su Zheng*, Xiaoxiao Liang, Ziyang Yu, Yuzhe Ma, Bei Yu and Martin Wong, "Curvilinear Optical Proximity Correction via Cardinal Spline", ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 22–25, 2025. 
 #
-- \[C16\] Z. Wang, J. Zhou, *S. Zheng*, S. Yin, K. Liang, S. Hu, X. Chen, B. Yu, “TorchResist: Open-source differentiable resist simulator”, SPIE Advanced Lithography + Patterning, San Jose, Feb. 23–27, 2025.
+- \[C17\] Zixiao Wang, Jieya Zhou, *Su Zheng*, Shuo Yin, Kaichao Liang, Shoubo Hu, Xiao Chen, Bei Yu, "TorchResist: Open-source differentiable resist simulator", SPIE Advanced Lithography + Patterning, San Jose, Feb. 23–27, 2025. 
 #
-- \[J8\] L. Zou, *S. Zheng*, P. Xu, S. Liu, B. Yu, M. D.F. Wong, “Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+- \[C16\] *Su Zheng*, Zhengqi Gao, Fan-Keng Sun, Duane S. Boning, Bei Yu, Martin D. Wong, "Improving Neural ODE Training with Temporal Adaptive Batch Normalization", Neural Information Processing Systems (NeurIPS), Vancouver, Dec. 09–15, 2024. 
 #
-- \[J7\] Z. Yu, *S. Zheng*, W. Zhao, S. Yin, X. Liang, G. Chen, Y. Ma, B. Yu, M. D.F. Wong, “RuleLearner: OPC Rule Extraction from Inverse Lithography Technique Engine”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+- \[C15\] Peng Xu, *Su Zheng*, Yuyang Ye, Chen Bai, Siyuan Xu, Hao Geng, Tsung-Yi Ho, Bei Yu, "RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024. 
 #
-- \[C15\] *S. Zheng*, Z. Gao, F-K Sun, D. S. Boning, B. Yu, M. D.F. Wong, “Improving Neural ODE Training with Temporal Adaptive Batch Normalization”, Neural Information Processing Systems (NeurIPS), 2024.
+- \[C14\] Xinyun Zhang, *Su Zheng*, Guojin Chen, Binwu Zhu, Hong Xu, Bei Yu, "Fracturing-aware Curvilinear ILT via Circular E-beam Mask Writer", ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
 #
-- \[C14\] P. Xu, *S. Zheng*, Y. Ye, C. Bai, S. Xu, H. Geng, T. Ho, B. Yu, “RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.
+- \[C13\] *Su Zheng*, Yuzhe Ma, Bei Yu, Martin Wong, "EMOGen: Enhancing Mask Optimization via Pattern Generation", ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024. 
 #
-- \[J6\] S. Chen, C. Cai, *S. Zheng*, J. Li, G. Zhu, J. Li, Y. Yan, Y. Dai, W. Yin, L. Wang, “HierCGRA: A Novel Framework for Large-Scale CGRA with Hierarchical Modeling and Automated Design Space Exploration”, ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024
+- \[C12\] *Su Zheng*, Gang Xiao, Ge Yan, Meng Dong, Hong Chen, Yuzhe Ma, Bei Yu, Martin Wong, "Model-based OPC Extension in OpenILT", International Symposium of EDA (ISEDA), May 10–13, 2024. 
 #
-- \[J5\] H. Wu, Z. He, X. Zhang, X. Yao, *S. Zheng*, H. Zheng, B. Yu, “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+- \[C11\] Shixin Chen, *Su Zheng*, Chen Bai, Wenqian Zhao, Shuo Yin, Yang Bai, Bei Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), South Korea, Jan. 22–25, 2024. 
 #
-- \[C13\] *S. Zheng*, Y. Ma, B. Yu, M. Wong, “EMOGen: Enhancing Mask Optimization via Pattern Generation”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
+- \[C10\] *Su Zheng*, Haoyu Yang, Binwu Zhu, Bei Yu, Martin D.F. Wong, "LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing", Neural Information Processing Systems (NeurIPS), New Orleans, Dec. 10–16, 2023. 
 #
-- \[C12\] X. Zhang, *S. Zheng*, G. Chen, B. Zhu, H. Xu, B. Yu, “Fracturing-aware Curvilinear ILT via Circular E-beam Mask Writer”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
+- \[C9\] *Su Zheng*, Lancheng Zou, Peng XU, Siting Liu, Bei Yu, Martin Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, Oct. 29–Nov. 02, 2023. 
 #
-- \[J4\] S. Chen, S. Li, Z. Zhuang, *S. Zheng*, Z. Liang, T. Ho, B. Yu, A. L. Sangiovanni-Vincentelli, “Floorplet: Performance-aware Floorplan Framework for Chiplet Integration”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+- \[C8\] *Su Zheng*, Bei Yu, Martin Wong, "OpenILT: An Open Source Inverse Lithography Technique Framework", IEEE International Conference on ASIC (ASICON), Nanjing, Oct. 24–27, 2023. (Invited Paper)
 #
-- \[C11\] Z. He, H. Wu, X. Zhang, X. Yao, *S. Zheng*, H. Zheng and B. Yu, “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA”, ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), 2023.
+- \[C7\] Zhuolun He, Haoyuan Wu, Xinyun Zhang, Xufeng Yao, *Su Zheng*, Haisheng Zheng and Bei Yu, "ChatEDA: A Large Language Model Powered Autonomous Agent for EDA", ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Utah, Sep. 11-13, 2023. 
 #
-- \[C10\] *S. Zheng*, H. Yang, B. Zhu, B. Yu, M. D.F. Wong, "LithoBench: Benchmarking AI Computational Lithography for Semiconductor Manufacturing", Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023.
+- \[C6\] *Su Zheng*, Lancheng Zou, Siting Liu, Yibo Lin, Bei Yu, Martin Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023. 
 #
-- \[J3\] B. Zhu, *S. Zheng*, Z. Yu, G. Chen, Y. Ma, F. Yang, B. Yu, M. D.F. Wong, “L2O-ILT: Learning to Optimize Inverse Lithography Techniques”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+- \[C5\] *Su Zheng*, Jiadong Qian, Hao Zhou, Lingli Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
 #
-- \[C9\] S. Chen, *S. Zheng*, C. Bai, W. Zhao, S. Yin, Y. Bai, B. Yu, "SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design", IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), 2023.
+- \[C4\] Yao Lu, Jide Zhang, *Su Zheng*, Zhen Li, Lingli Wang, "Low Error-Rate Approximate Multiplier Design for DNNs with Hardware-Driven Co-Optimization," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022.
 #
-- \[C8\] *S. Zheng*, B. Yu, M. D.F. Wong, "OpenILT: An Open Source Inverse Lithography Technique Framework", International Conference on ASIC (ASICON), 2023 *(Invited Paper)*.
+- \[C3\] *Su Zheng*, Zhen Li, Yao Lu, Jingbo Gao, Jide Zhang and Lingli Wang, "HEAM: High-Efficiency Approximate Multiplier optimization for Deep Neural Networks," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022. ([https://github.com/shelljane/HEAM code])
 #
-- \[C7\] *S. Zheng*, L. Zou, P.Xu, S. Liu, B. Yu, M. D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023.
+- \[C2\] *Su Zheng*, Kaisen Zhang, Yaoguang Tian, Wenbo Yin, Lingli Wang and Xuegong Zhou, "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," International Conference on Field-Programmable Technology (ICFPT), 2021. 
 #
-- \[J2\] *S. Zheng*, H. Geng, C. Bai, B. Yu, and M. Wong, Boosting vlsi design flow parameter tuning with random embedding and multi-objective trust-region bayesian optimization. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
+- \[C1\] *Su Zheng*, Jialin Chen and Lingli Wang, "Targeted Black-Box Adversarial Attack Method for Image Classification Models," 2019 International Joint Conference on Neural Networks (IJCNN), 2019. ([https://github.com/shelljane/targeted-black-box-attack code])
+
+== Journal Papers
 #
-- \[C6\] *S. Zheng*, L. Zou, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023.
+- \[J18\] Shuo Yin, Ziyang Yu, Wenqian Zhao, Lancheng Zou, Jiahao Xu, *Su Zheng*, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, "FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization", accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
 #
-- \[C4\] *S. Zheng*, J. Qian, H. Zhou, L. Wang, "GRAEBO: FPGA General Routing Architecture Exploration via Bayesian Optimization," The International Conference on Field-Programmable Logic and Applications (FPL), 2022. 
+- \[J17\] Peng Xu, Rong Sun, *Su Zheng*, Song Chen, Qi Xu, Bei Yu, "DaVinci: Performance-Driven Analog Routing via Multi-modality Guidance Prediction", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 #
-- \[J1\] Z. Li, *S. Zheng*, J. Zhang, Y. Lu, J. Gao, J. Tao, L. Wang, "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 30, no. 12, pp. 1813-1826, Dec. 2022. 
+- \[J16\] Xinyun Zhang, Yuyang Chen, Yiwen Wu, *Su Zheng*, Ran Chen, Min Li, Hao Geng, Binwu Zhu, Mingxuan Yuan, Bei Yu, "From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 #
-- \[C4\] Y. Lu, J. Zhang, *S. Zheng*, Z. Li, L. Wang, "Low Error-Rate Approximate Multiplier Design for DNNs with Hardware-Driven Co-Optimization," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022.
+- \[J15\] *Su Zheng*, Zhengqi Gao, Fan-Keng Sun, Duane S. Boning, Ron Rohrer, Bei Yu, Martin D.F. Wong, "KirchhoffNet: End-to-End Analog Circuit Acceleration for ODE-Based Neural Networks", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. 
 #
-- \[C3\] *S. Zheng*, Z. Li, Y. Lu, J. Gao, J. Zhang and L. Wang, "HEAM: High-Efficiency Approximate Multiplier optimization for Deep Neural Networks," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022. ([https://github.com/shelljane/HEAM code])
+- \[J14\] Donger Luo, Qi Sun, Peng Xu, *Su Zheng*, Qi Xu, Tinghuan Chen, Bei Yu, Hao Geng, "Attention-Based EDA Tool Parameter Explorer: From Hybrid Parameters to Multi-QoR Metrics", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 45, no. 02, pp. 691–704, 2025. 
 #
-- \[C2\] *S. Zheng*, K. Zhang, Y. Tian, W. Yin, L. Wang and X. Zhou, "FastCGRA: A Modeling, Evaluation, and Exploration Platform for Large-Scale Coarse-Grained Reconfigurable Arrays," International Conference on Field-Programmable Technology (ICFPT), 2021. 
+- \[J13\] Peng Xu, *Su Zheng*, Yuyang Ye, Chen Bai, Siyuan Xu, Hao Geng, Tsung-Yi Ho, Bei Yu, "RankTuner: When Design Tool Parameter Tuning Meets Preference Bayesian Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
 #
-- \[C1\] *S. Zheng*, J. Chen and L. Wang, "Targeted Black-Box Adversarial Attack Method for Image Classification Models," 2019 International Joint Conference on Neural Networks (IJCNN), 2019. ([https://github.com/shelljane/targeted-black-box-attack code])
+- \[J12\] Yuyang Chen, Qi Sun, *Su Zheng*, Xinyun Zhang, Bei Yu, Hao Geng, "HyDAS: Hybrid Domain Deformed Attention for Selective Hotspot Detection", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+#
+- \[J11\] *Su Zheng*, Wenqian Zhao, Shuyuan Sun, Fan Yang, Bei Yu, Martin D.F. Wong, "Streamlining Computational Lithography with Efficient Pattern Database", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 11, pp. 4263–4275, 2025. 
+#
+- \[J10\] Peng Xu, *Su Zheng*, Mingzi Wang, Ziyang Yu, Shixin Chen, Tinghuan Chen, Keren Zhu, Tsung-Yi Ho, Bei Yu, "Rank-DSE: Neural Pareto Comparator of Microarchitecture Design Space Exploration", ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 30, no. 05, pp. 71:1–71:24, 2025. 
+#
+- \[J9\] Binwu Zhu, *Su Zheng*, Yuzhe Ma, Bei Yu, Martin Wong, "Bridging Hotspot Detection and Mask Optimization via Domain-Crossing Masked Layout Modeling", ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 30, no. 04, pp. 54:1–54:20, 2025. 
+#
+- \[J8\] Lancheng Zou, *Su Zheng*, Peng Xu, Siting Liu, Bei Yu, Martin D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 07, pp. 2627–2640, 2025. 
+#
+- \[J7\] Ziyang Yu, *Su Zheng*, Wenqian Zhao, Shuo Yin, Xiaoxiao Liang, Guojin Chen, Yuzhe Ma, Bei Yu, Martin D.F. Wong, "RuleLearner: OPC Rule Extraction from Inverse Lithography Technique Engine", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 05, pp. 1915–1927, 2025. 
+#
+- \[J6\] Haoyuan Wu, Zhuolun He, Xinyun Zhang, Xufeng Yao, *Su Zheng*, Haisheng Zheng, Bei Yu, "ChatEDA: A Large Language Model Powered Autonomous Agent for EDA", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 43, no. 10, pp. 3184–3197, 2024. 
+#
+- \[J5\] Shixin Chen, Shanyi Li, Zhen Zhuang, *Su Zheng*, Zheng Liang, Tsung-Yi Ho, Bei Yu, Alberto L. Sangiovanni-Vincentelli, "Floorplet: Performance-aware Floorplan Framework for Chiplet Integration", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 43, no. 06, pp. 1638–1649, 2024. 
+#
+- \[J4\] Binwu Zhu, *Su Zheng*, Ziyang Yu, Guojin Chen, Yuzhe Ma, Fan Yang, Bei Yu, Martin Wong, "L2O-ILT: Learning to Optimize Inverse Lithography Techniques", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 43, no. 03, pp. 944–955, 2024. 
+#
+- \[J3\] Sichao Chen, Chang Cai, *Su Zheng*, Jiangnan Li, Guowei Zhu, Jingyuan Li, Yazhou Yan, Yuan Dai, Wenbo Yin, Lingli Wang, "HierCGRA: A Novel Framework for Large-Scale CGRA with Hierarchical Modeling and Automated Design Space Exploration", ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024
+#
+- \[J2\] *Su Zheng*, Hao Geng, Chen Bai, Bei Yu, Martin Wong, "Boosting VLSI Design Flow Parameter Tuning with Random Embedding and Multi-objective Trust-region Bayesian Optimization", ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 28, no. 05, pp. 1–23, 2023. 
+#
+- \[J1\] Zhen Li, *Su Zheng*, Jide Zhang, Yao Lu, Jingbo Gao, Jun Tao, Lingli Wang, "Adaptable Approximate Multiplier Design Based on Input Distribution and Polarity," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 30, no. 12, pp. 1813-1826, Dec. 2022. 
 
 == Education
 - Ph.D.,   Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug/2022 - Now
